@@ -27,7 +27,7 @@ const projects = [
     desc: 'Profesjonalne doradztwo ubezpieczeniowe i finansowe dla osób prywatnych oraz firm. 15+ lat doświadczenia, 2400 zadowolonych klientów, 30+ towarzystw w portfolio. Kompleksowa obsługa: ubezpieczenia komunikacyjne, majątkowe, na życie, firmowe, turystyczne oraz doradztwo finansowe. Licencjonowany broker KNF, szybka i bezpieczna obsługa, wsparcie na każdym etapie.',
     tags: ['Strona WWW', 'Ubezpieczenia', 'Doradztwo', 'Finanse'],
     gradient: 'from-orange-500/20 to-red-600/10',
-    icon: <img src="/images/Снимок экрана 2023-03-15 в 12.34.56.png" alt="fin-secure" className="w-16 h-16 object-cover rounded-full" />,
+    icon: <img src="/images/finsecure.png" alt="FinSecure" className="w-16 h-16 object-cover rounded-full" />,
     color: 'text-orange-400',
   },
   {
